@@ -4,7 +4,7 @@
   <img src="paper/pics/system_architecture.svg" width="80%">
 </p>
 
-This is the official implementation of [Higher-Order Graph Databases](https://arxiv.org/abs/2506.).
+This is the official implementation of [Higher-Order Graph Databases](https://arxiv.org/abs/2506.19661).
 
 This framework implements a higher-order (HO) graph database (GDB) that uses
 lifting and lowering paradigms to seamlessly extend traditional GDBs with
@@ -73,6 +73,6 @@ Using this in your work? Please reference us using the provided citation:
   year = 2025,
   month = Jun,
   eprinttype = {arXiv},
-  eprint = {2406.}
+  eprint = {2406.19661}
 }
 ```
